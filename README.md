@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/sanguleague">
+  <a href="https://github.com/jerryoldson/sanguleague">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
